@@ -4,6 +4,14 @@ npm install
 ng serve
 ```
 
+# Components
+```
+ng g c cockpit --skipTests true
+ng g c server-element --skipTests true
+
+```
+
+
 # Git
 ```
 git init
