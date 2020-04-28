@@ -16,6 +16,9 @@ ng serve
 ng g c cockpit --skipTests true
 ng g c server-element --skipTests true
 
+ng g c game-control --skipTests true
+ng g c odd --skipTests true
+ng g c even --skipTests true
 ```
 
 
